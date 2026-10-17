@@ -14,8 +14,8 @@
   <channel>
     <atom:link href="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Lore" type="application/rss+xml" rel="self"/>
     <title>Lore</title>
-    <pubDate>Mon, 12 Oct 2026 05:09:40 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 05:09:40 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 20:29:14 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:29:14 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <libsyn:show-id>65267</libsyn:show-id>
     
@@ -55,6 +55,71 @@
     
     
     
+    
+    <item>
+      <title>Lore Alive 3: Under the Rug</title>
+      <itunes:title>Lore Alive 3: Under the Rug</itunes:title>
+      <pubDate>Fri, 16 Oct 2026 05:01:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[1777e445-a976-404b-b7ba-3ad0f79276dd]]></guid>
+      <link><![CDATA[https://www.lorepodcast.com/episodes/alive3]]></link>
+      <description><![CDATA[———————————————————
+
+Edits made: removed 1 ad segment totaling 2.2 minutes.
+
+- Warby Parker: 2.2 min
+
+A short swish sound marks each edit.
+A QA reel with all removed segments is available as "Ads cut from Lore Alive 3: Under the Rug" in this feed.
+
+<p>Welcome to <strong>Lore Alive</strong>, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.<span class= "Apple-converted-space"> </span></p> <p>For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place.</p> <p><em>Lore Alive was created by Aaron Mahnke, with writing and direction by Nicolas Tecosky, audio production and sound design by Brandon Grugle. This week's episode starred Sarah Palm and Joanna, Nick Tecosky as Sal, and Amanda Cucher as Amanda.</em></p> <p>———————————————————————————</p> <p><strong>Series Sponsor:</strong></p> <ul> <li><strong>Warby Parker</strong>: Right now, buy one pair and get additional pairs for 20%. Go to <a href= "https://www.warbyparker.com/lore">WarbyParker.com/LORE</a> to try on any pair virtually!</li> </ul> <p>———————————————————————————</p> <p><strong>Lore Resources: </strong></p> <ul> <li>Get Ad-Free Lore: <a href= "https://www.lorepodcast.com/support">lorepodcast.com/support</a></li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">lorepodcast.com/shop</a></li> </ul> <p>———————————————————————————</p> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. </p> <p>For today's spooky tale, we travel north to Maine, and the tiny community of Dark Harbor. It is here that a promising marriage falls apart, and a horrifying legend grows up in its place.</p> <p><em>Lore Alive was created by Aaron Mahnke, with writing and direction by Nicolas Tecosky, audio production and sound design by Brandon Grugle. This week's episode starred Sarah Palm and Joanna, Nick Tecosky as Sal, and Amanda Cucher as Amanda.</em></p> <p>———————————————————————————</p> <p>Series Sponsor:</p> <ul> <li>Warby Parker: Right now, buy one pair and get additional pairs for 20%. Go to <a href= "https://www.warbyparker.com/lore">WarbyParker.com/LORE</a> to try on any pair virtually!</li> </ul> <p>———————————————————————————</p> <p>Lore Resources: </p> <ul> <li>Get Ad-Free Lore: <a href= "https://www.lorepodcast.com/support">lorepodcast.com/support</a></li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">lorepodcast.com/shop</a></li> </ul> <p>———————————————————————————</p> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/lore-alive-3-under-the-rug/lore-alive-3-under-the-rug-cleaned.mp3" length="24522437" type="audio/mpeg"/>
+      <itunes:duration>25:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:image href="https://static.libsyn.com/p/assets/3/8/2/b/382b7cc350b96ffe88c4a68c3ddbc4f2/Alive3.jpg" />
+      
+      
+      <itunes:episodeType>bonus</itunes:episodeType>
+      
+      <itunes:author>Aaron Mahnke</itunes:author>
+      
+      
+      
+
+      <libsyn:item-id>43279168</libsyn:item-id>
+      
+      <libsyn:last-updated>2026-10-16T05:10:06Z</libsyn:last-updated>
+      
+      
+      <libsyn:ad-markers>
+        
+        <libsyn:ad-marker type="pre" count="2" />
+        
+        <libsyn:ad-marker type="post" count="2" timestamp="1661" />
+        
+      </libsyn:ad-markers>
+      
+    </item>
+<item><title>Ads cut from Lore Alive 3: Under the Rug</title><description><![CDATA[QA reel: ad segments removed from "Lore Alive 3: Under the Rug". Listen to verify no wanted content was cut.
+
+Clips:
+0:00 - Warby Parker (130s)
+
+———————————————————
+
+Edits made: removed 1 ad segment totaling 2.2 minutes.
+
+- Warby Parker: 2.2 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/lore-alive-3-under-the-rug/lore-alive-3-under-the-rug-ads-cut.mp3" length="2080718" type="audio/mpeg"/><guid isPermaLink="false">1777e445-a976-404b-b7ba-3ad0f79276dd-ads-reel</guid><pubDate>Fri, 16 Oct 2026 05:01:00 +0000</pubDate><itunes:duration>0:02:09</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
+
     
     <item>
       <title>Legends 90: Set Aside</title>
@@ -23692,53 +23757,6 @@ Edits made: removed 1 ad segment totaling 3.2 minutes.
         <libsyn:ad-marker type="mid" count="3" timestamp="1470" />
         
         <libsyn:ad-marker type="post" count="2" timestamp="1551" />
-        
-      </libsyn:ad-markers>
-      
-    </item>
-    
-    <item>
-      <title>Trick or Treat 2016: Set 2</title>
-      <itunes:title>Trick or Treat 2016: Set 2</itunes:title>
-      <pubDate>Mon, 24 Oct 2016 09:53:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[517c306627b40915b7d0f6f86e944e20]]></guid>
-      <link><![CDATA[https://dts.podtrac.com/redirect.mp3/chrt.fm/track/A3B28C/traffic.libsyn.com/secure/lorepodcast/Trick_or_Treat_2016_Set_2.mp3]]></link>
-      <description><![CDATA[<p>A Halloween treat to add a bit of dark history to your week. Each Lore "Trick or Treat 2016" episode is a collection of two of my favorite "shorts" in one place. Perfect for a rainy day, a walk in the dark, or a campfire gathering. This episode includes "In a Pickle" and "Drained".</p> <p>* * *</p> <p><strong>Official Lore Merchandise:</strong> <a href= "http://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></p> <p><strong>Member-only Episodes:</strong> <a href= "https://www.patreon.com/lorepodcast">www.patreon.com/lorepodcast</a></p> <p><a href="https://www.lorepodcast.com/support" rel= "payment">Access premium content!: https://www.lorepodcast.com/support</a></p> <p> </p>]]></description>
-      
-      <content:encoded><![CDATA[<p>A Halloween treat to add a bit of dark history to your week. Each Lore "Trick or Treat 2016" episode is a collection of two of my favorite "shorts" in one place. Perfect for a rainy day, a walk in the dark, or a campfire gathering. This episode includes "In a Pickle" and "Drained".</p> <p>* * *</p> <p>Official Lore Merchandise: <a href= "http://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></p> <p>Member-only Episodes: <a href= "https://www.patreon.com/lorepodcast">www.patreon.com/lorepodcast</a></p> <p><a href="https://www.lorepodcast.com/support" rel= "payment">Access premium content!: https://www.lorepodcast.com/support</a></p> <p> </p>]]></content:encoded>
-      
-      
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Trick_or_Treat_2016_Set_2.mp3?dest-id=259905" length="29033035" type="audio/mpeg" />
-      <itunes:duration>15:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-      <itunes:keywords />
-      
-      
-      
-      <itunes:image href="https://static.libsyn.com/p/assets/b/2/7/7/b277c5ae829c4cb6e5bbc093207a2619/image_t-1643941403_size-Large.jpg" />
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      <itunes:author>Aaron Mahnke and Grim &amp; Mild</itunes:author>
-      
-      
-      
-
-      <libsyn:item-id>4768806</libsyn:item-id>
-      
-      <libsyn:last-updated>2023-05-02T18:05:51Z</libsyn:last-updated>
-      
-      
-      <libsyn:ad-markers>
-        
-        <libsyn:ad-marker type="pre" count="2" />
-        
-        <libsyn:ad-marker type="mid" count="3" timestamp="471" />
-        
-        <libsyn:ad-marker type="post" count="2" timestamp="908" />
         
       </libsyn:ad-markers>
       
