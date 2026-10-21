@@ -67,9 +67,10 @@
 			<itunes:keywords>Microsoft Patch Tuesday, security vulnerabilities, agentic AI attacks, Unit 42, palo alto networks, Anthropic Claude, ECDSA curve origins, hardware crypto wallet hack, Ledger device hack, Trezor compromise, supply chain attack, AI-driven cybersecurity</itunes:keywords>
 			<description><![CDATA[———————————————————
 
-Edits made: removed 4 ad segments totaling 8.2 minutes.
+Edits made: removed 5 ad segments totaling 11.1 minutes.
 
 - brand/cluster/voice:bitwarden: 2.7 min
+- brand/cluster/cta/voice:joindeleteme: 2.9 min
 - brand/cluster/cta/voice:threatlocker: 2.6 min
 - brand/cluster:guardsquare: 1.6 min
 - brand-orphan/cluster/voice:Club TWiT: 1.2 min
@@ -151,8 +152,8 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863444/hero/SN1101_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3</guid>
-			<itunes:duration>2:23:26</itunes:duration>
-			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1101-ecdsa-s-curves-origins-when-ai-b/sn-1101-ecdsa-s-curves-origins-when-ai-becomes-the-attacker-cleaned.mp3" length="137843262" type="audio/mpeg"/>
+			<itunes:duration>2:20:36</itunes:duration>
+			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1101-ecdsa-s-curves-origins-when-ai-b/sn-1101-ecdsa-s-curves-origins-when-ai-becomes-the-attacker-cleaned.mp3" length="135113351" type="audio/mpeg"/>
 			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3" fileSize="145718388" type="audio/mpeg" medium="audio">
 				<media:title type="plain">SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker</media:title>
 				<media:description type="plain">When AI Becomes the Attacker</media:description>
@@ -171,18 +172,20 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 
 Clips:
 0:00 - brand/cluster/voice:bitwarden (164s)
-2:44 - brand/cluster/cta/voice:threatlocker (155s)
-5:19 - brand/cluster:guardsquare (98s)
-6:57 - brand-orphan/cluster/voice:Club TWiT (75s)
+2:44 - brand/cluster/cta/voice:joindeleteme (171s)
+5:35 - brand/cluster/cta/voice:threatlocker (155s)
+8:10 - brand/cluster:guardsquare (98s)
+9:48 - brand-orphan/cluster/voice:Club TWiT (75s)
 
 ———————————————————
 
-Edits made: removed 4 ad segments totaling 8.2 minutes.
+Edits made: removed 5 ad segments totaling 11.1 minutes.
 
 - brand/cluster/voice:bitwarden: 2.7 min
+- brand/cluster/cta/voice:joindeleteme: 2.9 min
 - brand/cluster/cta/voice:threatlocker: 2.6 min
 - brand/cluster:guardsquare: 1.6 min
-- brand-orphan/cluster/voice:Club TWiT: 1.2 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1101-ecdsa-s-curves-origins-when-ai-b/sn-1101-ecdsa-s-curves-origins-when-ai-becomes-the-attacker-ads-cut.mp3" length="7875047" type="audio/mpeg"/><guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3-ads-reel</guid><pubDate>Tue, 20 Oct 2026 17:30:45 PDT</pubDate><itunes:duration>0:08:12</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
+- brand-orphan/cluster/voice:Club TWiT: 1.2 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1101-ecdsa-s-curves-origins-when-ai-b/sn-1101-ecdsa-s-curves-origins-when-ai-becomes-the-attacker-ads-cut.mp3" length="10611509" type="audio/mpeg"/><guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3-ads-reel</guid><pubDate>Tue, 20 Oct 2026 17:30:45 PDT</pubDate><itunes:duration>0:11:03</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
 
 		<item>
 			<title>SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime</title>
