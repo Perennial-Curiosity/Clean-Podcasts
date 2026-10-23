@@ -64,8 +64,9 @@
       <link><![CDATA[https://www.lorepodcast.com/support]]></link>
       <description><![CDATA[———————————————————
 
-Edits made: removed 0 ad segments totaling 0.0 minutes.
+Edits made: removed 1 ad segment totaling 0.3 minutes.
 
+- Progressive: 0.3 min
 
 A short swish sound marks each edit.
 A QA reel with all removed segments is available as "Ads cut from Deeper Lore: 317 (84, 111, &amp; 215)" in this feed.
@@ -75,8 +76,8 @@ A QA reel with all removed segments is available as "Ads cut from Deeper Lore: 3
       <content:encoded><![CDATA[<p>Go deeper into the subject matter of our most recent episode (317: Smoke and Mirrors) with these three recommendations from further back in the Lore catalog:</p> <ul> <li>Episode 84: <a href= "https://www.lorepodcast.com/episodes/84">LorePodcast.com/episodes/84</a></li> <li>Episode 111: <a href= "https://www.lorepodcast.com/episodes/111">LorePodcast.com/episodes/111</a></li> <li>Episode 215: <a href= "https://www.lorepodcast.com/episodes/215">LorePodcast.com/episodes/215</a></li> </ul> <p>————————</p> <p>Lore Resources: </p> <ul> <li>Episode Music: <a href= "https://www.lorepodcast.com/music">lorepodcast.com/music</a> </li> <li>Episode Sources: <a href= "https://www.lorepodcast.com/sources">lorepodcast.com/sources</a> </li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></li> </ul> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></content:encoded>
       
       
-      <enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/deeper-lore-317-84-111-215/deeper-lore-317-84-111-215-cleaned.mp3" length="7483937" type="audio/mpeg"/>
-      <itunes:duration>4:56</itunes:duration>
+      <enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/deeper-lore-317-84-111-215/deeper-lore-317-84-111-215-cleaned.mp3" length="4419697" type="audio/mpeg"/>
+      <itunes:duration>4:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       
       
@@ -108,6 +109,17 @@ A QA reel with all removed segments is available as "Ads cut from Deeper Lore: 3
       </libsyn:ad-markers>
       
     </item>
+<item><title>Ads cut from Deeper Lore: 317 (84, 111, &amp; 215)</title><description><![CDATA[QA reel: ad segments removed from "Deeper Lore: 317 (84, 111, & 215)". Listen to verify no wanted content was cut.
+
+Clips:
+0:00 - Progressive (21s)
+
+———————————————————
+
+Edits made: removed 1 ad segment totaling 0.3 minutes.
+
+- Progressive: 0.3 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/deeper-lore-317-84-111-215/deeper-lore-317-84-111-215-ads-cut.mp3" length="334902" type="audio/mpeg"/><guid isPermaLink="false">6dc7cc16-4e45-40a9-9c71-152a25678ef2-ads-reel</guid><pubDate>Thu, 22 Oct 2026 05:01:00 +0000</pubDate><itunes:duration>0:00:20</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
+
     
     <item>
       <title>Lore 317: Smoke and Mirrors</title>
