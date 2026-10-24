@@ -14,8 +14,8 @@
   <channel>
     <atom:link href="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Lore" type="application/rss+xml" rel="self"/>
     <title>Lore</title>
-    <pubDate>Thu, 22 Oct 2026 05:09:19 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 05:09:19 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 05:09:18 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:09:18 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <libsyn:show-id>65267</libsyn:show-id>
     
@@ -55,6 +55,71 @@
     
     
     
+    
+    <item>
+      <title>Lore Alive 4: Peg &amp; Button</title>
+      <itunes:title>Lore Alive 4: Peg &amp;amp; Button</itunes:title>
+      <pubDate>Fri, 23 Oct 2026 05:01:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[1ac47b88-b842-4374-ba0f-c505839d38fb]]></guid>
+      <link><![CDATA[https://www.lorepodcast.com/episodes/alive4]]></link>
+      <description><![CDATA[———————————————————
+
+Edits made: removed 1 ad segment totaling 1.4 minutes.
+
+- Warby Parker: 1.4 min
+
+A short swish sound marks each edit.
+A QA reel with all removed segments is available as "Ads cut from Lore Alive 4: Peg &amp; Button" in this feed.
+
+<p>Welcome to <strong>Lore Alive</strong>, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.<span class= "Apple-converted-space"> </span></p> <p>For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted them forevermore.</p> <p><em>Lore Alive was created by Aaron Mahnke, with writing and direction by Nicolas Tecosky, audio production and sound design by Brandon Grugle. This week's episode starred Nicholas Tecosky as Jack, J. Garrett Mitchell as Tom, and Amanda Cucher as Peg.</em></p> <p>———————————————————————————</p> <p><strong>Series Sponsor:</strong></p> <ul> <li><strong>Warby Parker</strong>: Right now, buy one pair and get additional pairs for 20%. Go to <a href= "https://www.warbyparker.com/lore">WarbyParker.com/LORE</a> to try on any pair virtually!</li> </ul> <p>———————————————————————————</p> <p><strong>Lore Resources: </strong></p> <ul> <li>Get Ad-Free Lore: <a href= "https://www.lorepodcast.com/support">lorepodcast.com/support</a></li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">lorepodcast.com/shop</a></li> </ul> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. </p> <p>For today's spooky tale, we meet a group of mischievous young men who pick on the wrong woman before heading off to war in the far north. Their decision, it turns out, became something that haunted them forevermore.</p> <p><em>Lore Alive was created by Aaron Mahnke, with writing and direction by Nicolas Tecosky, audio production and sound design by Brandon Grugle. This week's episode starred Nicholas Tecosky as Jack, J. Garrett Mitchell as Tom, and Amanda Cucher as Peg.</em></p> <p>———————————————————————————</p> <p>Series Sponsor:</p> <ul> <li>Warby Parker: Right now, buy one pair and get additional pairs for 20%. Go to <a href= "https://www.warbyparker.com/lore">WarbyParker.com/LORE</a> to try on any pair virtually!</li> </ul> <p>———————————————————————————</p> <p>Lore Resources: </p> <ul> <li>Get Ad-Free Lore: <a href= "https://www.lorepodcast.com/support">lorepodcast.com/support</a></li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">lorepodcast.com/shop</a></li> </ul> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/lore-alive-4-peg-button/lore-alive-4-peg-button-cleaned.mp3" length="22764834" type="audio/mpeg"/>
+      <itunes:duration>23:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:image href="https://static.libsyn.com/p/assets/b/2/2/a/b22a5946023054b75f2e77a3093c12a1/Alive4.jpg" />
+      
+      
+      <itunes:episodeType>bonus</itunes:episodeType>
+      
+      <itunes:author>Aaron Mahnke</itunes:author>
+      
+      
+      
+
+      <libsyn:item-id>43392754</libsyn:item-id>
+      
+      <libsyn:last-updated>2026-10-23T05:07:07Z</libsyn:last-updated>
+      
+      
+      <libsyn:ad-markers>
+        
+        <libsyn:ad-marker type="pre" count="2" />
+        
+        <libsyn:ad-marker type="post" count="2" timestamp="1507" />
+        
+      </libsyn:ad-markers>
+      
+    </item>
+<item><title>Ads cut from Lore Alive 4: Peg &amp; Button</title><description><![CDATA[QA reel: ad segments removed from "Lore Alive 4: Peg & Button". Listen to verify no wanted content was cut.
+
+Clips:
+0:00 - Warby Parker (86s)
+
+———————————————————
+
+Edits made: removed 1 ad segment totaling 1.4 minutes.
+
+- Warby Parker: 1.4 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/lore-alive-4-peg-button/lore-alive-4-peg-button-ads-cut.mp3" length="1381055" type="audio/mpeg"/><guid isPermaLink="false">1ac47b88-b842-4374-ba0f-c505839d38fb-ads-reel</guid><pubDate>Fri, 23 Oct 2026 05:01:00 +0000</pubDate><itunes:duration>0:01:26</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
+
     
     <item>
       <title>Deeper Lore: 317 (84, 111, &amp; 215)</title>
@@ -23753,55 +23818,6 @@ Edits made: removed 1 ad segment totaling 3.2 minutes.
         <libsyn:ad-marker type="mid" count="3" timestamp="1340" />
         
         <libsyn:ad-marker type="post" count="2" timestamp="1421" />
-        
-      </libsyn:ad-markers>
-      
-    </item>
-    
-    <item>
-      <title>Episode 48: Downriver</title>
-      <itunes:title>Episode 48: Downriver</itunes:title>
-      <pubDate>Mon, 28 Nov 2016 10:51:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[f1c90bfafcb545cc4e9037d7722afa92]]></guid>
-      <link><![CDATA[https://dts.podtrac.com/redirect.mp3/chrt.fm/track/A3B28C/traffic.libsyn.com/secure/lorepodcast/Episode_48_Downriver.mp3]]></link>
-      <description><![CDATA[<p>Tragedy is never something we plan for. It sneaks up on us like a bandit in the night, and takes away our sense of security and purpose. But throughout history, there have been places so plagued by tragedy that those who live near them consider these locations to be cursed.</p> <p>* * *</p> <p><strong>Official Lore Merchandise:</strong> <a href= "http://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></p> <p><strong>Member-only Episodes:</strong> <a href= "https://www.patreon.com/lorepodcast">www.patreon.com/lorepodcast</a></p> <p><a href="https://www.lorepodcast.com/support" rel= "payment">Access premium content!: https://www.lorepodcast.com/support</a></p>]]></description>
-      
-      <content:encoded><![CDATA[<p>Tragedy is never something we plan for. It sneaks up on us like a bandit in the night, and takes away our sense of security and purpose. But throughout history, there have been places so plagued by tragedy that those who live near them consider these locations to be cursed.</p> <p>* * *</p> <p>Official Lore Merchandise: <a href= "http://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></p> <p>Member-only Episodes: <a href= "https://www.patreon.com/lorepodcast">www.patreon.com/lorepodcast</a></p> <p><a href="https://www.lorepodcast.com/support" rel= "payment">Access premium content!: https://www.lorepodcast.com/support</a></p>]]></content:encoded>
-      
-      
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Episode_48_Downriver.mp3?dest-id=259905" length="44661365" type="audio/mpeg" />
-      <itunes:duration>23:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-      <itunes:keywords />
-      
-      
-      <itunes:episode>48</itunes:episode>
-      
-      
-      <itunes:image href="https://static.libsyn.com/p/assets/6/5/4/4/65444632b2567302a04421dee9605cbd/image_t-1643941354_size-Large.jpg" />
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      <itunes:author>Aaron Mahnke and Grim &amp; Mild</itunes:author>
-      
-      
-      
-
-      <libsyn:item-id>4865728</libsyn:item-id>
-      
-      <libsyn:last-updated>2023-05-02T17:06:20Z</libsyn:last-updated>
-      
-      
-      <libsyn:ad-markers>
-        
-        <libsyn:ad-marker type="pre" count="2" />
-        
-        <libsyn:ad-marker type="mid" count="3" timestamp="1316" />
-        
-        <libsyn:ad-marker type="post" count="2" timestamp="1396" />
         
       </libsyn:ad-markers>
       
