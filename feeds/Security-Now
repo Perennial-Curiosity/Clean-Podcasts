@@ -14,8 +14,8 @@
 		<ttl>720</ttl>
 		<sy:updatePeriod>weekly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-		<lastBuildDate>Tue, 20 Oct 2026 17:55:02 PDT</lastBuildDate>
-		<pubDate>Tue, 20 Oct 2026 17:55:02 PDT</pubDate>
+		<lastBuildDate>Tue, 27 Oct 2026 18:40:04 PDT</lastBuildDate>
+		<pubDate>Tue, 27 Oct 2026 18:40:04 PDT</pubDate>
 		<rawvoice:frequency>weekly</rawvoice:frequency>
 		<rawvoice:location>Petaluma, CA</rawvoice:location>
 		<itunes:type>episodic</itunes:type>
@@ -49,6 +49,159 @@
 		<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
 		<rawvoice:subscribe feed="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Security-Now" itunes="https://podcasts.apple.com/us/podcast/security-now-audio/id79016499" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
 		<atom:link href="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Security-Now" type="application/rss+xml" rel="self"/>
+		<item>
+			<title>SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title>
+			<itunes:title>A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>TWiT</itunes:author>
+			<pubDate>Tue, 27 Oct 2026 18:06:03 PDT</pubDate>
+			<itunes:episode>1102</itunes:episode>
+			<podcast:episode>1102</podcast:episode>
+			<link>https://twit.tv/shows/security-now/episodes/1102</link>
+			<comments>https://twit.tv/shows/security-now/episodes/1102</comments>
+			<category>Help &amp; How To</category>
+			<category>Technology</category>
+			<category>Security</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle>Lessons From a Global Patch-and-Panic Fire Drill</itunes:subtitle>
+			<itunes:keywords>PHP vulnerability, AI-enabled exploits, remote code execution, PHP to shell, security patching, OpenAI Patch the Planet, Wiz Security, Calif Security, cloudflare, Matthew Prince, heartbleed, supply chain attack, ChainGuard embargo</itunes:keywords>
+			<description><![CDATA[———————————————————
+
+Edits made: removed 10 ad segments totaling 15.1 minutes.
+
+- threadlocker: 2.1 min
+- brand/cluster/voice:doppel: 2.9 min
+- hawksont: 1.0 min
+- duplicate-4: 1.0 min
+- duplicate-5: 0.8 min
+- duplicate-8: 0.9 min
+- brand/cluster/voice:originhq: 0.7 min
+- duplicate-10: 0.9 min
+- brand/cluster/voice:material: 3.0 min
+- brand-orphan/cluster:Club TWiT: 1.7 min
+
+A short swish sound marks each edit.
+A QA reel with all removed segments is available as "Ads cut from SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill" in this feed.
+
+
+<p>A newly uncovered PHP vulnerability put nearly 70% of the internet at risk, sending governments and enterprises into a frenzy as AI-powered attackers raced to exploit a flaw that had lurked unnoticed for 14 years. Hear why this could be just the start of an unrelenting wave of security crises.</p><ul> 
+<li>We take a detailed look at the many facets and aspects of last week's wild PHP ride:</li> 
+<li>What happened.</li> 
+<li>How it happened.</li> 
+<li>Why it happened.</li> 
+<li>How it could have been prevented.</li> 
+<li>How it impacted many of our listeners.</li> 
+<li>We consider the implications of what is said to be coming next and the idea of temporary "strategic disconnection" from the Internet</li></ul> 
+<p>Show Notes - <a href="https://www.grc.com/sn/SN-1102-Notes.pdf">https://www.grc.com/sn/SN-1102-Notes.pdf</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/mikah-sargent">Mikah Sargent</a> and <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a></p> 
+<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
+<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
+<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
+<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
+Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit" rel="payment">https://twit.tv/clubtwit</a></p>
+<p><strong>Sponsors:</strong><ul>
+<li><a href="http://threatlocker.com/twit" target="_blank" rel="sponsored">threatlocker.com/twit</a></li>
+<li><a href="https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign" target="_blank" rel="sponsored">doppel.com</a></li>
+<li><a href="http://hoxhunt.com/securitynow" target="_blank" rel="sponsored">hoxhunt.com/securitynow</a></li>
+<li><a href="http://originhq.com/securitynow" target="_blank" rel="sponsored">originhq.com/securitynow</a></li>
+<li><a href="https://material.security" target="_blank" rel="sponsored">material.security</a></li>
+</ul></p>
+]]></description>
+			<itunes:summary><![CDATA[
+<p>A newly uncovered PHP vulnerability put nearly 70% of the internet at risk, sending governments and enterprises into a frenzy as AI-powered attackers raced to exploit a flaw that had lurked unnoticed for 14 years. Hear why this could be just the start of an unrelenting wave of security crises.</p><ul> 
+<li>We take a detailed look at the many facets and aspects of last week's wild PHP ride:</li> 
+<li>What happened.</li> 
+<li>How it happened.</li> 
+<li>Why it happened.</li> 
+<li>How it could have been prevented.</li> 
+<li>How it impacted many of our listeners.</li> 
+<li>We consider the implications of what is said to be coming next and the idea of temporary "strategic disconnection" from the Internet</li></ul> 
+<p>Show Notes - <a href="https://www.grc.com/sn/SN-1102-Notes.pdf">https://www.grc.com/sn/SN-1102-Notes.pdf</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/mikah-sargent">Mikah Sargent</a> and <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a></p> 
+<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
+<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
+<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
+<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
+Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit" rel="payment">https://twit.tv/clubtwit</a></p>
+<p><strong>Sponsors:</strong><ul>
+<li><a href="http://threatlocker.com/twit" target="_blank" rel="sponsored">threatlocker.com/twit</a></li>
+<li><a href="https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign" target="_blank" rel="sponsored">doppel.com</a></li>
+<li><a href="http://hoxhunt.com/securitynow" target="_blank" rel="sponsored">hoxhunt.com/securitynow</a></li>
+<li><a href="http://originhq.com/securitynow" target="_blank" rel="sponsored">originhq.com/securitynow</a></li>
+<li><a href="https://material.security" target="_blank" rel="sponsored">material.security</a></li>
+</ul></p>
+]]></itunes:summary>
+			<content:encoded><![CDATA[
+<p>A newly uncovered PHP vulnerability put nearly 70% of the internet at risk, sending governments and enterprises into a frenzy as AI-powered attackers raced to exploit a flaw that had lurked unnoticed for 14 years. Hear why this could be just the start of an unrelenting wave of security crises.</p><ul> 
+<li>We take a detailed look at the many facets and aspects of last week's wild PHP ride:</li> 
+<li>What happened.</li> 
+<li>How it happened.</li> 
+<li>Why it happened.</li> 
+<li>How it could have been prevented.</li> 
+<li>How it impacted many of our listeners.</li> 
+<li>We consider the implications of what is said to be coming next and the idea of temporary "strategic disconnection" from the Internet</li></ul> 
+<p>Show Notes - <a href="https://www.grc.com/sn/SN-1102-Notes.pdf">https://www.grc.com/sn/SN-1102-Notes.pdf</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/mikah-sargent">Mikah Sargent</a> and <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a></p> 
+<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
+<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
+<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
+<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
+Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit" rel="payment">https://twit.tv/clubtwit</a></p>
+<p><strong>Sponsors:</strong><ul>
+<li><a href="http://threatlocker.com/twit" target="_blank" rel="sponsored">threatlocker.com/twit</a></li>
+<li><a href="https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign" target="_blank" rel="sponsored">doppel.com</a></li>
+<li><a href="http://hoxhunt.com/securitynow" target="_blank" rel="sponsored">hoxhunt.com/securitynow</a></li>
+<li><a href="http://originhq.com/securitynow" target="_blank" rel="sponsored">originhq.com/securitynow</a></li>
+<li><a href="https://material.security" target="_blank" rel="sponsored">material.security</a></li>
+</ul></p>
+]]></content:encoded>
+			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863526/hero/SN1102_thumbnail.jpg"/>
+			<guid isPermaLink="false">TWiT-1636-1102-863528</guid>
+			<itunes:duration>2:39:06</itunes:duration>
+			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1102-a-strategic-plug-pull-lessons-fr/sn-1102-a-strategic-plug-pull-lessons-from-a-global-patch-an-cleaned.mp3" length="152886736" type="audio/mpeg"/>
+			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1102/1fbdcfda-238a-4ac3-97ec-b4a1af0267b8.mp3" fileSize="167325407" type="audio/mpeg" medium="audio">
+				<media:title type="plain">SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</media:title>
+				<media:description type="plain">Lessons From a Global Patch-and-Panic Fire Drill</media:description>
+				<media:keywords>PHP vulnerability, AI-enabled exploits, remote code execution, PHP to shell, security patching, OpenAI Patch the Planet, Wiz Security, Calif Security, cloudflare, Matthew Prince, heartbleed, supply chain attack, ChainGuard embargo</media:keywords>
+				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2026/10/863526/hero/SN1102_thumbnail.jpg" width="400" height="225" />
+				<media:rating scheme="urn:simple">nonadult</media:rating>
+				<media:rating scheme="urn:v-chip">tv-g</media:rating>
+				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
+				<media:credit role="host">Mikah Sargent</media:credit>
+				<media:credit role="host">Steve Gibson</media:credit>
+			</media:content>
+				<podcast:person role="host" href="https://twit.tv/people/mikah-sargent" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/346331/pictures/img_5919.png">Mikah Sargent</podcast:person>
+				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/Steve_v1.jpg">Steve Gibson</podcast:person>
+		</item>
+<item><title>Ads cut from SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title><description><![CDATA[QA reel: ad segments removed from "SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill". Listen to verify no wanted content was cut.
+
+Clips:
+0:00 - threadlocker (125s)
+2:05 - brand/cluster/voice:doppel (177s)
+5:01 - hawksont (59s)
+6:01 - duplicate-4 (60s)
+7:01 - duplicate-5 (46s)
+7:48 - duplicate-8 (56s)
+8:44 - brand/cluster/voice:originhq (42s)
+9:26 - duplicate-10 (55s)
+10:20 - brand/cluster/voice:material (181s)
+13:21 - brand-orphan/cluster:Club TWiT (105s)
+
+———————————————————
+
+Edits made: removed 10 ad segments totaling 15.1 minutes.
+
+- threadlocker: 2.1 min
+- brand/cluster/voice:doppel: 2.9 min
+- hawksont: 1.0 min
+- duplicate-4: 1.0 min
+- duplicate-5: 0.8 min
+- duplicate-8: 0.9 min
+- brand/cluster/voice:originhq: 0.7 min
+- duplicate-10: 0.9 min
+- brand/cluster/voice:material: 3.0 min
+- brand-orphan/cluster:Club TWiT: 1.7 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1102-a-strategic-plug-pull-lessons-fr/sn-1102-a-strategic-plug-pull-lessons-from-a-global-patch-an-ads-cut.mp3" length="14510127" type="audio/mpeg"/><guid isPermaLink="false">TWiT-1636-1102-863528-ads-reel</guid><pubDate>Tue, 27 Oct 2026 18:06:03 PDT</pubDate><itunes:duration>0:15:06</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
+
 		<item>
 			<title>SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker</title>
 			<itunes:title>ECDSA's Curves Origins - When AI Becomes the Attacker</itunes:title>
@@ -88,7 +241,7 @@ A QA reel with all removed segments is available as "Ads cut from SN 1101: ECDSA
 <li>Feedback about AI, coding and SpinRite from a listener.</li> 
 <li>What the reverse-engineering of the ECDSA curves means for security</li></ul> 
 <p>Show Notes - <a href="https://www.grc.com/sn/SN-1101-Notes.pdf">https://www.grc.com/sn/SN-1101-Notes.pdf</a></p> 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/mikah-sargent">Mikah Sargent</a></p> 
 <p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
 <p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
 <p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
@@ -112,7 +265,7 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 <li>Feedback about AI, coding and SpinRite from a listener.</li> 
 <li>What the reverse-engineering of the ECDSA curves means for security</li></ul> 
 <p>Show Notes - <a href="https://www.grc.com/sn/SN-1101-Notes.pdf">https://www.grc.com/sn/SN-1101-Notes.pdf</a></p> 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/mikah-sargent">Mikah Sargent</a></p> 
 <p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
 <p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
 <p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
@@ -136,7 +289,7 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 <li>Feedback about AI, coding and SpinRite from a listener.</li> 
 <li>What the reverse-engineering of the ECDSA curves means for security</li></ul> 
 <p>Show Notes - <a href="https://www.grc.com/sn/SN-1101-Notes.pdf">https://www.grc.com/sn/SN-1101-Notes.pdf</a></p> 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/mikah-sargent">Mikah Sargent</a></p> 
 <p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
 <p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
 <p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
@@ -163,10 +316,10 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 				<media:rating scheme="urn:v-chip">tv-g</media:rating>
 				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
 				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
+				<media:credit role="host">Mikah Sargent</media:credit>
 			</media:content>
 				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/Steve_v1.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/Leo_v1.jpg">Leo Laporte</podcast:person>
+				<podcast:person role="host" href="https://twit.tv/people/mikah-sargent" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/346331/pictures/img_5919.png">Mikah Sargent</podcast:person>
 		</item>
 <item><title>Ads cut from SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker</title><description><![CDATA[QA reel: ad segments removed from "SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker". Listen to verify no wanted content was cut.
 
@@ -202,7 +355,6 @@ Edits made: removed 5 ad segments totaling 11.1 minutes.
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>AI Frenzy in Cybercrime</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/can-you-trust-downloaded-ai-models-startling-reality-llm-backdoors" type="text/html" />
 			<itunes:keywords>Booby-trapping LLMs, AI security, maliciously trained AI, cyberattacks Japan, Anthropic Claude, agentic ai, LLM alignment, supply chain attacks, AI vulnerability scanning, OSS Scanner, open source security, safe AI models, Python pickle vulnerabilities</itunes:keywords>
 			<description><![CDATA[———————————————————
 
@@ -217,8 +369,6 @@ A short swish sound marks each edit.
 A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime" in this feed.
 
 
- 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
 <p>Think your open-source AI model is safe? This episode uncovers how LLMs can be secretly booby-trapped with undetectable backdoors, raising the stakes for anyone deploying AI in serious environments.</p><ul> 
 <li>Anthropic cuts live Internet access during testing.</li> 
 <li>Will LLM technology turn out to be an uncontrollable dead end?</li> 
@@ -230,7 +380,13 @@ A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby
 <li>A listener is having way too much fun with AI and Halloween.</li> 
 <li>Some listeners believe I'm downplaying the dangers of AI.</li> 
 <li>We carefully examine the consequences of maliciously trained AI</li></ul> 
-<p>Show Notes - <a href="https://www.grc.com/sn/SN-1100-Notes.pdf">https://www.grc.com/sn/SN-1100-Notes.pdf</a></p>
+<p>Show Notes - <a href="https://www.grc.com/sn/SN-1100-Notes.pdf" target="_blank">https://www.grc.com/sn/SN-1100-Notes.pdf</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
+<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
+<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
+<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
+<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
+Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit">https://twit.tv/clubtwit</a></p>
 <p><strong>Sponsors:</strong><ul>
 <li><a href="http://threatlocker.com/twit" target="_blank" rel="sponsored">threatlocker.com/twit</a></li>
 <li><a href="http://hoxhunt.com/securitynow" target="_blank" rel="sponsored">hoxhunt.com/securitynow</a></li>
@@ -239,8 +395,6 @@ A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby
 </ul></p>
 ]]></description>
 			<itunes:summary><![CDATA[
- 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
 <p>Think your open-source AI model is safe? This episode uncovers how LLMs can be secretly booby-trapped with undetectable backdoors, raising the stakes for anyone deploying AI in serious environments.</p><ul> 
 <li>Anthropic cuts live Internet access during testing.</li> 
 <li>Will LLM technology turn out to be an uncontrollable dead end?</li> 
@@ -252,7 +406,13 @@ A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby
 <li>A listener is having way too much fun with AI and Halloween.</li> 
 <li>Some listeners believe I'm downplaying the dangers of AI.</li> 
 <li>We carefully examine the consequences of maliciously trained AI</li></ul> 
-<p>Show Notes - <a href="https://www.grc.com/sn/SN-1100-Notes.pdf">https://www.grc.com/sn/SN-1100-Notes.pdf</a></p>
+<p>Show Notes - <a href="https://www.grc.com/sn/SN-1100-Notes.pdf" target="_blank">https://www.grc.com/sn/SN-1100-Notes.pdf</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
+<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
+<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
+<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
+<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
+Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit">https://twit.tv/clubtwit</a></p>
 <p><strong>Sponsors:</strong><ul>
 <li><a href="http://threatlocker.com/twit" target="_blank" rel="sponsored">threatlocker.com/twit</a></li>
 <li><a href="http://hoxhunt.com/securitynow" target="_blank" rel="sponsored">hoxhunt.com/securitynow</a></li>
@@ -261,8 +421,6 @@ A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby
 </ul></p>
 ]]></itunes:summary>
 			<content:encoded><![CDATA[
- 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
 <p>Think your open-source AI model is safe? This episode uncovers how LLMs can be secretly booby-trapped with undetectable backdoors, raising the stakes for anyone deploying AI in serious environments.</p><ul> 
 <li>Anthropic cuts live Internet access during testing.</li> 
 <li>Will LLM technology turn out to be an uncontrollable dead end?</li> 
@@ -274,7 +432,13 @@ A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby
 <li>A listener is having way too much fun with AI and Halloween.</li> 
 <li>Some listeners believe I'm downplaying the dangers of AI.</li> 
 <li>We carefully examine the consequences of maliciously trained AI</li></ul> 
-<p>Show Notes - <a href="https://www.grc.com/sn/SN-1100-Notes.pdf">https://www.grc.com/sn/SN-1100-Notes.pdf</a></p>
+<p>Show Notes - <a href="https://www.grc.com/sn/SN-1100-Notes.pdf" target="_blank">https://www.grc.com/sn/SN-1100-Notes.pdf</a></p> 
+<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
+<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
+<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
+<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
+<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
+Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit">https://twit.tv/clubtwit</a></p>
 <p><strong>Sponsors:</strong><ul>
 <li><a href="http://threatlocker.com/twit" target="_blank" rel="sponsored">threatlocker.com/twit</a></li>
 <li><a href="http://hoxhunt.com/securitynow" target="_blank" rel="sponsored">hoxhunt.com/securitynow</a></li>
@@ -332,7 +496,6 @@ Edits made: removed 4 ad segments totaling 12.2 minutes.
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>From RSA Weakness to Agentic Attacks</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/what-ai-alignment-and-why-does-it-matter-now-more-ever" type="text/html" />
 			<itunes:keywords>GLM 5.3, AI alignment, cybersecurity, open-weight models, AI exploit generation, Firefox vulnerabilities, restraint obliteration, Anthropic Claude Mythos Preview, RSA cryptography weakness, Obliteration.ai, Spectre-style processor attacks, dns benchmark, </itunes:keywords>
 			<description><![CDATA[———————————————————
 
@@ -454,7 +617,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Unpredictable Agents</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/should-you-fear-ais-rapid-rise" type="text/html" />
 			<itunes:keywords>ai agents, Muse AI assistant, Meta Muse security, Seven Deadly Sins hacker group, shiny hunters breach, FBI data leak, agentic ai, zero-day vulnerability, OpenAI DOTS, VM breakout, Ubuntu release cadence, Canonical kernel updates, AI cybersecurity</itunes:keywords>
 			<description><![CDATA[
 <p>With millions racing to embrace AI assistants and cybercriminals pivoting to new, high-stakes tactics, the episode tackles the dizzying pace of change and asks: just how worried should we be? The discussion pulls back the curtain on AI's unpredictable power, the escalation of digital extortion, and why the next breach may hit closer to home than you think.</p><ul> 
@@ -561,7 +723,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>When AI Outsmarts Its Makers</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/how-survive-microsofts-patch-tuesday-disasters-lessons-latest-update-fiasco" type="text/html" />
 			<itunes:keywords>Microsoft Patch Tuesday, AI security, Anthropic, openAI, AI doomsday, EU Kids Act, Andrew Ng, David Bellamy, AI containment, Irregular security firm, gemini ai, Claude Opus 5, HackTron, libheif vulnerability, remote code execution, Cisco vulnerabilities, </itunes:keywords>
 			<description><![CDATA[
 <p>After Microsoft's historic Mega Patch Tuesday, enterprise IT teams worldwide are scrambling as a wave of updates triggers system meltdowns, broken domains, and silent Excel failures. Find out how AI-driven speed collided with real-world chaos.</p><ul> 
@@ -677,7 +838,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>153 Million Driver's Licenses Leaked</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/are-we-krell-how-ai-could-hand-us-keys-our-own-destruction" type="text/html" />
 			<itunes:keywords>Microsoft security fixes, patch tuesday, Anthropic Project Glasswing, rogue AI agents, openAI, M-DASH, data brokers, California DROP, identity theft, driver's license breach, AI vulnerability discovery, security.txt, cyber threats, software patches</itunes:keywords>
 			<description><![CDATA[
 <p>Are we charging toward a Krell-style catastrophe with AI, arming ourselves with incomprehensible power while missing the real risks lurking beneath the code?</p><ul> 
@@ -787,7 +947,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Gemini, Hugging Face, and the AI Arms Race</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/transcripts/security-now-1095-transcript" type="text/html" />
 			<itunes:keywords>AI-driven expertise loss, Microsoft Patch Tuesday, Windows security updates, memory integrity, hypervisor-protected code integrity, Firefox smart window, CISA cybersecurity services, OpenAI GPT-6 Astra, NVIDIA Hugging Face acquisition</itunes:keywords>
 			<description><![CDATA[
 <p>OpenAI's latest advances have the rumor mill buzzing about "hidden thoughts" and unsupervisable models, but are AI safety experts panicking over the wrong threat? Get the clear-headed take behind the headlines.</p><ul> 
@@ -903,7 +1062,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Should You Trust AI-Generated Code?</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/transcripts/security-now-1094-transcript" type="text/html" />
 			<itunes:keywords>AI patching shortcomings, prompt injection abuse, security flaws in AI code, vulnerability remediation, large language models, LLM security, architectural instruction data separation, neural network limitations, role confusion problem</itunes:keywords>
 			<description><![CDATA[
 <p>AI-generated code is flooding the industry, but researchers reveal that almost half of it contains critical vulnerabilities. This week, we unpack what happens when the race for automation outpaces security best practices.</p><ul> 
@@ -1025,7 +1183,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Why LLMs are inherently insecure and prompt injection will persist</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/can-ai-ever-be-secure-hidden-risks-behind-llm-prompt-injection" type="text/html" />
 			<itunes:keywords>AI security, prompt injection, role confusion, large language models, LLM vulnerabilities, neural networks, AI distillation, model training, Anthropic Claude Mythos 5, Bitwarden Secrets Manager, open-source security, system prompt tags</itunes:keywords>
 			<description><![CDATA[
 <p>Turns out, every chatbot conversation runs on a messy hack at the heart of language models, making prompt injection an unsolved—and possibly unsolvable—security threat. Steve and Leo unravel the research that explains why "roles" in AI aren't what you think they are.</p><ul> 
@@ -1123,7 +1280,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Rotating Keys, Broken Guardrails</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/can-we-control-what-ai-knows-inside-restraint-abliteration-breakthrough" type="text/html" />
 			<itunes:keywords>AI security, supply chain attack, LightLLM, Trivy vulnerability scanner, credential leaks, open-source AI proxy, dual-use knowledge, refusal behavior, model obliteration, credential rotation, RLHF, Direct Preference Optimization, DPO, Anthropic, openAI</itunes:keywords>
 			<description><![CDATA[
 <p>From autocorrect to full-fledged conversationalists, discover how a few tweaks transformed language models—and why understanding this shift exposes urgent questions about AI safety and control.</p><ul> 
@@ -1224,7 +1380,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>When AI Writes Malware</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/transcripts/security-now-1091-transcript" type="text/html" />
 			<itunes:keywords>AI security, Anthropic, Meta, OpenAI breakout, Hugging Face hack, chrome vulnerabilities, pfsense, NF Sensei, bruce schneier, AI genies, cybersecurity, agentic ai, prompt injection, Simon Willison, AI bug bounty, Apple bug reports, Mythos model</itunes:keywords>
 			<description><![CDATA[
 <p>AI agents are breaking free from their test environments, outsmarting their creators and breaching real-world networks in ways that no one predicted. Discover how these agentic models are changing the game for both cyber offense and defense.</p><ul> 
@@ -1331,7 +1486,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>The Hidden Flaws in AI Security Nobody Saw Coming</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/can-ai-fix-security-mess-its-creating-ai-assisted-bug-hunting-patching-and-future" type="text/html" />
 			<itunes:keywords>Black Hat Conference, ai and security, ThreatLocker, def con, autonomous vehicles, Zoox hack, Claude AI, copilot, Home Assistant, local AI models, cybersecurity, open source vulnerabilities, Mythos, M-DASH, AI in cryptography, vulnerability discovery</itunes:keywords>
 			<description><![CDATA[
 <p>At Black Hat Las Vegas, the Security Now crew digs into how AI is not just finding hidden software bugs but also fueling both groundbreaking innovation and alarming new exploits. When open models can launch surprise Bitcoin heists, who draws the line between forbidden knowledge and genuine progress?</p> 
@@ -1472,7 +1626,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Regulators, Start Your Engines</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/transcripts/security-now-1089-transcript" type="text/html" />
 			<itunes:keywords>openAI, hugging face, AI alignment, AI model containment, autonomous ai agents, AI cybersecurity, ExploitGym, vulnerability exploitation, GPT-5.6 Sol, ai guardrails, cybersecurity incident, Linux kernel vulnerabilities, WordPress vulnerability</itunes:keywords>
 			<description><![CDATA[
 <p>What happens when an unconstrained OpenAI model goes rogue and hacks into Hugging Face, breaching real-world security boundaries? This episode unpacks a watershed moment for AI safety that has everyone in cybersecurity talking.</p><ul> 
@@ -1582,7 +1735,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Ransomware Negotiations Go High-Tech</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/how-cybercriminals-now-use-ai-exploit-stolen-data" type="text/html" />
 			<itunes:keywords>openssl vulnerability, AI in cybersecurity, AI prompt injection, 1Password Claude integration, Bitwarden agentic AI access, ransomware AI usage, WordPress core vulnerability, Shadow AI, Wiz Security AI agents, remote code execution, credential management,</itunes:keywords>
 			<description><![CDATA[
 <p>Cybercriminals are harnessing AI not to break in, but to make sense of their stolen loot and increase their leverage in multi-million dollar ransomware heists. This episode unpacks how AI is now turbocharging extortion and negotiations on the dark side.</p><ul> 
@@ -1695,7 +1847,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Patch Tuesday Breaks Records</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/new-ai-security-threats-hallusquatting-ghost-approval-and-gitlost-explained" type="text/html" />
 			<itunes:keywords>AI cybersecurity, Microsoft Patch Tuesday, Mythos Anthropic, autonomous agents, UK Cyber Shield, EU action plan on AI, HALU squatting, ghost approval, get lost exploit, Windows Defender vulnerabilities, child proofing iPhone, Assistive Access iOS</itunes:keywords>
 			<description><![CDATA[
 <p>AI is rewriting the rules of cybersecurity, and this week, massive government and private sector moves show just how quickly the stakes are rising. Find out how regulators, attackers, and defenders are all scrambling to keep up as vulnerabilities surface at record speed.</p><ul> 
@@ -1814,7 +1965,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Visual Prompt Injection Strikes</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/how-ai-revolutionizing-security-vulnerability-discovery" type="text/html" />
 			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Fable 5, AI security, agentic adversary, Vint Cerf retirement, Chrome 150, Google Chrome security updates, Opera Paste Protect, click-fix attacks, Microsoft Blue Hammer, FATFS vulnerabilities, Bug Bounty</itunes:keywords>
 			<description><![CDATA[
 <p>From the sudden retirement of Internet pioneer Vint Cerf to the unstoppable advance of "apex agentic adversaries," get a front-row seat to the unfolding security revolution and its massive real-world stakes.</p><ul> 
@@ -1936,7 +2086,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>AI's New Superpower: Loop Engineering</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/fortigate-vpn-hack-what-fortableed-campaign-means-your-organizations-security" type="text/html" />
 			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Windows 10 support extension, Microsoft ESU, Fortinet breach, fortableed campaign, state-sponsored cyber attacks, OpenAI Daybreak, Patch the Planet, Anthropic Mythos, AI vulnerability discovery</itunes:keywords>
 			<description><![CDATA[
 <p>AI is now uncovering and fixing thousands of hidden software bugs faster than humans can keep up, but not everyone is playing by the rules. Find out how state-sponsored attackers and careless disclosures are turning the cybersecurity playbook upside down.</p><ul> 
@@ -2052,7 +2201,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Malicious Proxies in Your Living Room</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/are-your-iot-devices-turning-against-you-understanding-residential-proxy-threat" type="text/html" />
 			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, residential proxy threat, proxy networks, malicious proxies, AI in cybersecurity, Claude Mythos, microsoft defender, Rogue Planet zero day, Nightmare Eclipse, Firefox vulnerabilities, Fortinet VPN breach</itunes:keywords>
 			<description><![CDATA[
 <p>A flood of everyday gadgets, from cheap streaming boxes to digital photo frames, are being secretly conscripted into global proxy networks and used to mask major cyberattacks—possibly even targeting your own home network.</p><ul> 
@@ -2162,7 +2310,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 			<category>Security</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Arch Linux Repo Under Siege</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/how-ai-supercharged-microsofts-patch-tuesday-record-number-bugs-fixed" type="text/html" />
 			<itunes:keywords>AI vulnerability discovery, patch tuesday, supply chain attacks, Arch Linux user repository, NPM security, info stealer malware, Anthropic Fable Mythos, US government AI export control, CISA patching requirements, rootkit Linux, EBPF rootkit</itunes:keywords>
 			<description><![CDATA[
 <p>This episode unpacks the jaw-dropping surge in vulnerabilities unearthed by AI, revealing how Microsoft shattered its own patch records while adversaries and defenders race to outpace each other. The conversation gets real about whether AI is fixing our broken software or just making attacks easier for everyone.</p><ul> 
@@ -2242,116 +2389,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 				<media:description type="plain">Arch Linux Repo Under Siege</media:description>
 				<media:keywords>AI vulnerability discovery, patch tuesday, supply chain attacks, Arch Linux user repository, NPM security, info stealer malware, Anthropic Fable Mythos, US government AI export control, CISA patching requirements, rootkit Linux, EBPF rootkit</media:keywords>
 				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2026/06/861797/hero/SN1083_thumbnail.jpg" width="400" height="225" />
-				<media:rating scheme="urn:simple">nonadult</media:rating>
-				<media:rating scheme="urn:v-chip">tv-g</media:rating>
-				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
-				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
-			</media:content>
-				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/Steve_v1.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/Leo_v1.jpg">Leo Laporte</podcast:person>
-		</item>
-		<item>
-			<title>SN 1082: The Malicious Use of AI - Anthropic's Red Team Report</title>
-			<itunes:title>The Malicious Use of AI - Anthropic's Red Team Report</itunes:title>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>TWiT</itunes:author>
-			<pubDate>Tue, 09 Jun 2026 18:17:35 PDT</pubDate>
-			<itunes:episode>1082</itunes:episode>
-			<podcast:episode>1082</podcast:episode>
-			<link>https://twit.tv/shows/security-now/episodes/1082</link>
-			<comments>https://twit.tv/shows/security-now/episodes/1082</comments>
-			<category>Help &amp; How To</category>
-			<category>Technology</category>
-			<category>Security</category>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:subtitle>Anthropic's Red Team Report</itunes:subtitle>
-			<podcast:transcript url="http://twit.tv/posts/tech/ai-powered-cyber-attacks-what-anthropics-latest-report-tells-us" type="text/html" />
-			<itunes:keywords>AI security risks, malicious use of AI, Anthropic Fable model, Claude Mythos, ransomware, law firm ransomware payment, MITRE ATT&amp;CK framework, WordPress plugin vulnerability, PHP security, malware as a service, Weed Hack, Minecraft mods malware</itunes:keywords>
-			<description><![CDATA[
-<p>Discover how Anthropic's secretive red team and the MITRE ATT&amp;CK framework are mapping the chilling rise of malicious AI use, revealing cyber threats that now move faster than defenders can respond.</p><ul> 
-<li>Was a U.S. law firm right to pay a $20 million ransom.</li> 
-<li>Could Cisco have yet another SD-WAN 0-day in the wild.</li> 
-<li>Why is it so difficult to author secure PHP code.</li> 
-<li>Teens use "WeedHack" to spy and attack each other.</li> 
-<li>Researchers create the first AI-enabled Internet worm.</li> 
-<li>Google Chrome pops-up "Shop with confidence." What...</li> 
-<li>The discovered and irresponsibly disclosed HTTP/2 Bomb.</li> 
-<li>What Anthropic learns from their past year of Claude abuse: It's bad</li></ul> 
-<p>Show Notes - <a href="https://www.grc.com/sn/SN-1082-Notes.pdf">https://www.grc.com/sn/SN-1082-Notes.pdf</a></p> 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
-<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
-<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
-<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
-<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
-Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit" rel="payment">https://twit.tv/clubtwit</a></p>
-<p><strong>Sponsors:</strong><ul>
-<li><a href="https://www.threatlocker.com/pages/solutions?utm_medium=podcast&utm_source=twit&utm_campaign=securitynow" target="_blank" rel="sponsored">threatlocker.com for Security Now</a></li>
-<li><a href="http://outsystems.com/twit" target="_blank" rel="sponsored">outsystems.com/twit</a></li>
-<li><a href="http://guardsquare.com" target="_blank" rel="sponsored">guardsquare.com</a></li>
-<li><a href="https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign" target="_blank" rel="sponsored">doppel.com</a></li>
-<li><a href="http://cyberhoot.com/securitynow" target="_blank" rel="sponsored">cyberhoot.com/securitynow and use code SECURITYNOW</a></li>
-</ul></p>
-]]></description>
-			<itunes:summary><![CDATA[
-<p>Discover how Anthropic's secretive red team and the MITRE ATT&amp;CK framework are mapping the chilling rise of malicious AI use, revealing cyber threats that now move faster than defenders can respond.</p><ul> 
-<li>Was a U.S. law firm right to pay a $20 million ransom.</li> 
-<li>Could Cisco have yet another SD-WAN 0-day in the wild.</li> 
-<li>Why is it so difficult to author secure PHP code.</li> 
-<li>Teens use "WeedHack" to spy and attack each other.</li> 
-<li>Researchers create the first AI-enabled Internet worm.</li> 
-<li>Google Chrome pops-up "Shop with confidence." What...</li> 
-<li>The discovered and irresponsibly disclosed HTTP/2 Bomb.</li> 
-<li>What Anthropic learns from their past year of Claude abuse: It's bad</li></ul> 
-<p>Show Notes - <a href="https://www.grc.com/sn/SN-1082-Notes.pdf">https://www.grc.com/sn/SN-1082-Notes.pdf</a></p> 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
-<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
-<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
-<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
-<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
-Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit" rel="payment">https://twit.tv/clubtwit</a></p>
-<p><strong>Sponsors:</strong><ul>
-<li><a href="https://www.threatlocker.com/pages/solutions?utm_medium=podcast&utm_source=twit&utm_campaign=securitynow" target="_blank" rel="sponsored">threatlocker.com for Security Now</a></li>
-<li><a href="http://outsystems.com/twit" target="_blank" rel="sponsored">outsystems.com/twit</a></li>
-<li><a href="http://guardsquare.com" target="_blank" rel="sponsored">guardsquare.com</a></li>
-<li><a href="https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign" target="_blank" rel="sponsored">doppel.com</a></li>
-<li><a href="http://cyberhoot.com/securitynow" target="_blank" rel="sponsored">cyberhoot.com/securitynow and use code SECURITYNOW</a></li>
-</ul></p>
-]]></itunes:summary>
-			<content:encoded><![CDATA[
-<p>Discover how Anthropic's secretive red team and the MITRE ATT&amp;CK framework are mapping the chilling rise of malicious AI use, revealing cyber threats that now move faster than defenders can respond.</p><ul> 
-<li>Was a U.S. law firm right to pay a $20 million ransom.</li> 
-<li>Could Cisco have yet another SD-WAN 0-day in the wild.</li> 
-<li>Why is it so difficult to author secure PHP code.</li> 
-<li>Teens use "WeedHack" to spy and attack each other.</li> 
-<li>Researchers create the first AI-enabled Internet worm.</li> 
-<li>Google Chrome pops-up "Shop with confidence." What...</li> 
-<li>The discovered and irresponsibly disclosed HTTP/2 Bomb.</li> 
-<li>What Anthropic learns from their past year of Claude abuse: It's bad</li></ul> 
-<p>Show Notes - <a href="https://www.grc.com/sn/SN-1082-Notes.pdf">https://www.grc.com/sn/SN-1082-Notes.pdf</a></p> 
-<p><strong>Hosts:</strong> <a href="https://twit.tv/people/steve-gibson">Steve Gibson</a> and <a href="https://twit.tv/people/leo-laporte">Leo Laporte</a></p> 
-<p>Download or subscribe to <em>Security Now</em> at <a href="https://twit.tv/shows/security-now">https://twit.tv/shows/security-now</a>.</p> 
-<p>You can submit a question to <em>Security Now</em> at the <a href="https://www.grc.com/feedback.htm" target="_blank">GRC Feedback Page</a>.</p> 
-<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href="https://www.grc.com/securitynow.htm" target="_blank">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href="https://www.grc.com/sr/spinrite.htm" target="_blank">Spinrite 6</a>.</p> 
-<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> 
-Support what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href="https://twit.tv/clubtwit" rel="payment">https://twit.tv/clubtwit</a></p>
-<p><strong>Sponsors:</strong><ul>
-<li><a href="https://www.threatlocker.com/pages/solutions?utm_medium=podcast&utm_source=twit&utm_campaign=securitynow" target="_blank" rel="sponsored">threatlocker.com for Security Now</a></li>
-<li><a href="http://outsystems.com/twit" target="_blank" rel="sponsored">outsystems.com/twit</a></li>
-<li><a href="http://guardsquare.com" target="_blank" rel="sponsored">guardsquare.com</a></li>
-<li><a href="https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign" target="_blank" rel="sponsored">doppel.com</a></li>
-<li><a href="http://cyberhoot.com/securitynow" target="_blank" rel="sponsored">cyberhoot.com/securitynow and use code SECURITYNOW</a></li>
-</ul></p>
-]]></content:encoded>
-			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/06/861713/hero/SN1082_thumbnail.jpg"/>
-			<guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1082/ab6b6cea-8416-423e-9f2a-4770813822ad.mp3</guid>
-			<itunes:duration>2:37:27</itunes:duration>
-			<enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1082/ab6b6cea-8416-423e-9f2a-4770813822ad.mp3" length="151438868" type="audio/mpeg"/>
-			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1082/ab6b6cea-8416-423e-9f2a-4770813822ad.mp3" fileSize="151438868" type="audio/mpeg" medium="audio">
-				<media:title type="plain">SN 1082: The Malicious Use of AI - Anthropic's Red Team Report</media:title>
-				<media:description type="plain">Anthropic's Red Team Report</media:description>
-				<media:keywords>AI security risks, malicious use of AI, Anthropic Fable model, Claude Mythos, ransomware, law firm ransomware payment, MITRE ATT&amp;CK framework, WordPress plugin vulnerability, PHP security, malware as a service, Weed Hack, Minecraft mods malware</media:keywords>
-				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2026/06/861713/hero/SN1082_thumbnail.jpg" width="400" height="225" />
 				<media:rating scheme="urn:simple">nonadult</media:rating>
 				<media:rating scheme="urn:v-chip">tv-g</media:rating>
 				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
