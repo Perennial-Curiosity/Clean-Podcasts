@@ -65,25 +65,7 @@
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>Lessons From a Global Patch-and-Panic Fire Drill</itunes:subtitle>
 			<itunes:keywords>PHP vulnerability, AI-enabled exploits, remote code execution, PHP to shell, security patching, OpenAI Patch the Planet, Wiz Security, Calif Security, cloudflare, Matthew Prince, heartbleed, supply chain attack, ChainGuard embargo</itunes:keywords>
-			<description><![CDATA[———————————————————
-
-Edits made: removed 10 ad segments totaling 15.1 minutes.
-
-- threadlocker: 2.1 min
-- brand/cluster/voice:doppel: 2.9 min
-- hawksont: 1.0 min
-- duplicate-4: 1.0 min
-- duplicate-5: 0.8 min
-- duplicate-8: 0.9 min
-- brand/cluster/voice:originhq: 0.7 min
-- duplicate-10: 0.9 min
-- brand/cluster/voice:material: 3.0 min
-- brand-orphan/cluster:Club TWiT: 1.7 min
-
-A short swish sound marks each edit.
-A QA reel with all removed segments is available as "Ads cut from SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill" in this feed.
-
-
+			<description><![CDATA[
 <p>A newly uncovered PHP vulnerability put nearly 70% of the internet at risk, sending governments and enterprises into a frenzy as AI-powered attackers raced to exploit a flaw that had lurked unnoticed for 14 years. Hear why this could be just the start of an unrelenting wave of security crises.</p><ul> 
 <li>We take a detailed look at the many facets and aspects of last week's wild PHP ride:</li> 
 <li>What happened.</li> 
@@ -157,8 +139,8 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863526/hero/SN1102_thumbnail.jpg"/>
 			<guid isPermaLink="false">TWiT-1636-1102-863528</guid>
-			<itunes:duration>2:39:06</itunes:duration>
-			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1102-a-strategic-plug-pull-lessons-fr/sn-1102-a-strategic-plug-pull-lessons-from-a-global-patch-an-cleaned.mp3" length="152886736" type="audio/mpeg"/>
+			<itunes:duration>2:54:06</itunes:duration>
+			<enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1102/1fbdcfda-238a-4ac3-97ec-b4a1af0267b8.mp3" length="167325407" type="audio/mpeg"/>
 			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1102/1fbdcfda-238a-4ac3-97ec-b4a1af0267b8.mp3" fileSize="167325407" type="audio/mpeg" medium="audio">
 				<media:title type="plain">SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</media:title>
 				<media:description type="plain">Lessons From a Global Patch-and-Panic Fire Drill</media:description>
@@ -173,35 +155,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 				<podcast:person role="host" href="https://twit.tv/people/mikah-sargent" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/346331/pictures/img_5919.png">Mikah Sargent</podcast:person>
 				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/Steve_v1.jpg">Steve Gibson</podcast:person>
 		</item>
-<item><title>Ads cut from SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title><description><![CDATA[QA reel: ad segments removed from "SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill". Listen to verify no wanted content was cut.
-
-Clips:
-0:00 - threadlocker (125s)
-2:05 - brand/cluster/voice:doppel (177s)
-5:01 - hawksont (59s)
-6:01 - duplicate-4 (60s)
-7:01 - duplicate-5 (46s)
-7:48 - duplicate-8 (56s)
-8:44 - brand/cluster/voice:originhq (42s)
-9:26 - duplicate-10 (55s)
-10:20 - brand/cluster/voice:material (181s)
-13:21 - brand-orphan/cluster:Club TWiT (105s)
-
-———————————————————
-
-Edits made: removed 10 ad segments totaling 15.1 minutes.
-
-- threadlocker: 2.1 min
-- brand/cluster/voice:doppel: 2.9 min
-- hawksont: 1.0 min
-- duplicate-4: 1.0 min
-- duplicate-5: 0.8 min
-- duplicate-8: 0.9 min
-- brand/cluster/voice:originhq: 0.7 min
-- duplicate-10: 0.9 min
-- brand/cluster/voice:material: 3.0 min
-- brand-orphan/cluster:Club TWiT: 1.7 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1102-a-strategic-plug-pull-lessons-fr/sn-1102-a-strategic-plug-pull-lessons-from-a-global-patch-an-ads-cut.mp3" length="14510127" type="audio/mpeg"/><guid isPermaLink="false">TWiT-1636-1102-863528-ads-reel</guid><pubDate>Tue, 27 Oct 2026 18:06:03 PDT</pubDate><itunes:duration>0:15:06</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
-
 		<item>
 			<title>SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker</title>
 			<itunes:title>ECDSA's Curves Origins - When AI Becomes the Attacker</itunes:title>
@@ -218,20 +171,7 @@ Edits made: removed 10 ad segments totaling 15.1 minutes.
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>When AI Becomes the Attacker</itunes:subtitle>
 			<itunes:keywords>Microsoft Patch Tuesday, security vulnerabilities, agentic AI attacks, Unit 42, palo alto networks, Anthropic Claude, ECDSA curve origins, hardware crypto wallet hack, Ledger device hack, Trezor compromise, supply chain attack, AI-driven cybersecurity</itunes:keywords>
-			<description><![CDATA[———————————————————
-
-Edits made: removed 5 ad segments totaling 11.1 minutes.
-
-- brand/cluster/voice:bitwarden: 2.7 min
-- brand/cluster/cta/voice:joindeleteme: 2.9 min
-- brand/cluster/cta/voice:threatlocker: 2.6 min
-- brand/cluster:guardsquare: 1.6 min
-- brand-orphan/cluster/voice:Club TWiT: 1.2 min
-
-A short swish sound marks each edit.
-A QA reel with all removed segments is available as "Ads cut from SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker" in this feed.
-
-
+			<description><![CDATA[
 <p>An unreleased AI solved a 26-year-old cryptographic secret in less than half an hour, exposing the origins of a widely used standard. Discover what this jaw-dropping breakthrough means for the future of trust and transparency in cybersecurity.</p><ul> 
 <li>Another record smashing Patch Tuesday.</li> 
 <li>But again, all those updates were not without consequences.</li> 
@@ -305,8 +245,8 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863444/hero/SN1101_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3</guid>
-			<itunes:duration>2:20:36</itunes:duration>
-			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1101-ecdsa-s-curves-origins-when-ai-b/sn-1101-ecdsa-s-curves-origins-when-ai-becomes-the-attacker-cleaned.mp3" length="135113351" type="audio/mpeg"/>
+			<itunes:duration>2:31:36</itunes:duration>
+			<enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3" length="145718388" type="audio/mpeg"/>
 			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3" fileSize="145718388" type="audio/mpeg" medium="audio">
 				<media:title type="plain">SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker</media:title>
 				<media:description type="plain">When AI Becomes the Attacker</media:description>
@@ -321,25 +261,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/Steve_v1.jpg">Steve Gibson</podcast:person>
 				<podcast:person role="host" href="https://twit.tv/people/mikah-sargent" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/346331/pictures/img_5919.png">Mikah Sargent</podcast:person>
 		</item>
-<item><title>Ads cut from SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker</title><description><![CDATA[QA reel: ad segments removed from "SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker". Listen to verify no wanted content was cut.
-
-Clips:
-0:00 - brand/cluster/voice:bitwarden (164s)
-2:44 - brand/cluster/cta/voice:joindeleteme (171s)
-5:35 - brand/cluster/cta/voice:threatlocker (155s)
-8:10 - brand/cluster:guardsquare (98s)
-9:48 - brand-orphan/cluster/voice:Club TWiT (75s)
-
-———————————————————
-
-Edits made: removed 5 ad segments totaling 11.1 minutes.
-
-- brand/cluster/voice:bitwarden: 2.7 min
-- brand/cluster/cta/voice:joindeleteme: 2.9 min
-- brand/cluster/cta/voice:threatlocker: 2.6 min
-- brand/cluster:guardsquare: 1.6 min
-- brand-orphan/cluster/voice:Club TWiT: 1.2 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1101-ecdsa-s-curves-origins-when-ai-b/sn-1101-ecdsa-s-curves-origins-when-ai-becomes-the-attacker-ads-cut.mp3" length="10611509" type="audio/mpeg"/><guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1101/6466d0c3-70f6-49e0-b4dd-daf08801bc0a.mp3-ads-reel</guid><pubDate>Tue, 20 Oct 2026 17:30:45 PDT</pubDate><itunes:duration>0:11:03</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
-
 		<item>
 			<title>SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime</title>
 			<itunes:title>Booby Trapping LLMs - AI Frenzy in Cybercrime</itunes:title>
@@ -356,19 +277,7 @@ Edits made: removed 5 ad segments totaling 11.1 minutes.
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>AI Frenzy in Cybercrime</itunes:subtitle>
 			<itunes:keywords>Booby-trapping LLMs, AI security, maliciously trained AI, cyberattacks Japan, Anthropic Claude, agentic ai, LLM alignment, supply chain attacks, AI vulnerability scanning, OSS Scanner, open source security, safe AI models, Python pickle vulnerabilities</itunes:keywords>
-			<description><![CDATA[———————————————————
-
-Edits made: removed 4 ad segments totaling 12.2 minutes.
-
-- brand/cluster/cta/voice:threatlocker: 4.7 min
-- brand-orphan/cluster:brand-orphan:trustedtech.team: 1.2 min
-- brand-orphan/cluster/voice:Club TWiT: 1.9 min
-- grc: 4.4 min
-
-A short swish sound marks each edit.
-A QA reel with all removed segments is available as "Ads cut from SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime" in this feed.
-
-
+			<description><![CDATA[
 <p>Think your open-source AI model is safe? This episode uncovers how LLMs can be secretly booby-trapped with undetectable backdoors, raising the stakes for anyone deploying AI in serious environments.</p><ul> 
 <li>Anthropic cuts live Internet access during testing.</li> 
 <li>Will LLM technology turn out to be an uncontrollable dead end?</li> 
@@ -448,8 +357,8 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863366/hero/SN1100_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1100/b76f564f-0da0-482a-8df2-d239ddec87f1.mp3</guid>
-			<itunes:duration>2:36:51</itunes:duration>
-			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1100-booby-trapping-llms-ai-frenzy-in/sn-1100-booby-trapping-llms-ai-frenzy-in-cybercrime-cleaned.mp3" length="150731996" type="audio/mpeg"/>
+			<itunes:duration>2:49:02</itunes:duration>
+			<enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1100/b76f564f-0da0-482a-8df2-d239ddec87f1.mp3" length="162517234" type="audio/mpeg"/>
 			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1100/b76f564f-0da0-482a-8df2-d239ddec87f1.mp3" fileSize="162517234" type="audio/mpeg" medium="audio">
 				<media:title type="plain">SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime</media:title>
 				<media:description type="plain">AI Frenzy in Cybercrime</media:description>
@@ -464,23 +373,6 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/Steve_v1.jpg">Steve Gibson</podcast:person>
 				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/Leo_v1.jpg">Leo Laporte</podcast:person>
 		</item>
-<item><title>Ads cut from SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime</title><description><![CDATA[QA reel: ad segments removed from "SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime". Listen to verify no wanted content was cut.
-
-Clips:
-0:00 - brand/cluster/cta/voice:threatlocker (284s)
-4:44 - brand-orphan/cluster:brand-orphan:trustedtech.team (73s)
-5:57 - brand-orphan/cluster/voice:Club TWiT (111s)
-7:48 - grc (266s)
-
-———————————————————
-
-Edits made: removed 4 ad segments totaling 12.2 minutes.
-
-- brand/cluster/cta/voice:threatlocker: 4.7 min
-- brand-orphan/cluster:brand-orphan:trustedtech.team: 1.2 min
-- brand-orphan/cluster/voice:Club TWiT: 1.9 min
-- grc: 4.4 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1100-booby-trapping-llms-ai-frenzy-in/sn-1100-booby-trapping-llms-ai-frenzy-in-cybercrime-ads-cut.mp3" length="11747935" type="audio/mpeg"/><guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1100/b76f564f-0da0-482a-8df2-d239ddec87f1.mp3-ads-reel</guid><pubDate>Tue, 13 Oct 2026 19:18:33 PDT</pubDate><itunes:duration>0:12:14</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
-
 		<item>
 			<title>SN 1099: An Alien Mind - From RSA Weakness to Agentic Attacks</title>
 			<itunes:title>An Alien Mind - From RSA Weakness to Agentic Attacks</itunes:title>
@@ -497,19 +389,7 @@ Edits made: removed 4 ad segments totaling 12.2 minutes.
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:subtitle>From RSA Weakness to Agentic Attacks</itunes:subtitle>
 			<itunes:keywords>GLM 5.3, AI alignment, cybersecurity, open-weight models, AI exploit generation, Firefox vulnerabilities, restraint obliteration, Anthropic Claude Mythos Preview, RSA cryptography weakness, Obliteration.ai, Spectre-style processor attacks, dns benchmark, </itunes:keywords>
-			<description><![CDATA[———————————————————
-
-Edits made: removed 4 ad segments totaling 15.0 minutes.
-
-- guardsquare.com: 2.8 min
-- bitwarden.com: 3.9 min
-- threatlocker.com: 5.6 min
-- doppel.com: 2.8 min
-
-A short swish sound marks each edit.
-A QA reel with all removed segments is available as "Ads cut from SN 1099: An Alien Mind - From RSA Weakness to Agentic Attacks" in this feed.
-
-
+			<description><![CDATA[
 <p>As AI becomes startlingly capable, top minds at OpenAI admit they can't always control what their own creations do—or even fully understand how they think. This episode dives into the real-world tension between rapid progress and the growing challenge of keeping AI truly aligned.</p><ul> 
 <li>GLM-5.3 can be and has been abliterated. What does that mean?</li> 
 <li>Firefox 157 repairs a large number of high-impact vulnerabilities.</li> 
@@ -586,8 +466,8 @@ Support what you love and get ad-free audio <em>and</em> video feeds, a members-
 ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863278/hero/SN1099_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1099/34d70054-02cc-4cd1-9685-6038c1c3b188.mp3</guid>
-			<itunes:duration>2:48:17</itunes:duration>
-			<enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/sn-1099-an-alien-mind-from-rsa-weakness/sn-1099-an-alien-mind-from-rsa-weakness-to-agentic-attacks-cleaned.mp3" length="161545866" type="audio/mpeg"/>
+			<itunes:duration>3:03:15</itunes:duration>
+			<enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1099/34d70054-02cc-4cd1-9685-6038c1c3b188.mp3" length="176183959" type="audio/mpeg"/>
 			<media:content url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1099/34d70054-02cc-4cd1-9685-6038c1c3b188.mp3" fileSize="176183959" type="audio/mpeg" medium="audio">
 				<media:title type="plain">SN 1099: An Alien Mind - From RSA Weakness to Agentic Attacks</media:title>
 				<media:description type="plain">From RSA Weakness to Agentic Attacks</media:description>
