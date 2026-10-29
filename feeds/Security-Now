@@ -47,8 +47,8 @@
 			<link>https://twit.tv/shows/security-now</link>
 		</image>
 		<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
-		<rawvoice:subscribe feed="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Security-Now" itunes="https://podcasts.apple.com/us/podcast/security-now-audio/id79016499" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
-		<atom:link href="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Security-Now" type="application/rss+xml" rel="self"/>
+		<rawvoice:subscribe feed="https://raw.githubusercontent.com/Perennial-Curiosity/Clean-Podcasts/main/feeds/Security-Now" itunes="https://podcasts.apple.com/us/podcast/security-now-audio/id79016499" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
+		<atom:link href="https://raw.githubusercontent.com/Perennial-Curiosity/Clean-Podcasts/main/feeds/Security-Now" type="application/rss+xml" rel="self"/>
 		<item>
 			<title>SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title>
 			<itunes:title>A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</itunes:title>
