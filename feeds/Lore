@@ -12,7 +12,7 @@
   xmlns:libsyn="https://rss.libsyn.com/ns.xml">
 
   <channel>
-    <atom:link href="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Lore" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://raw.githubusercontent.com/Perennial-Curiosity/Clean-Podcasts/main/feeds/Lore" type="application/rss+xml" rel="self"/>
     <title>Lore</title>
     <pubDate>Tue, 27 Oct 2026 14:04:29 +0000</pubDate>
     <lastBuildDate>Tue, 27 Oct 2026 14:04:29 +0000</lastBuildDate>
