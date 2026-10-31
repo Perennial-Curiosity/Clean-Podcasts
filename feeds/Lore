@@ -14,8 +14,8 @@
   <channel>
     <atom:link href="https://raw.githubusercontent.com/Perennial-Curiosity/Clean-Podcasts/main/feeds/Lore" type="application/rss+xml" rel="self"/>
     <title>Lore</title>
-    <pubDate>Tue, 27 Oct 2026 14:04:29 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 14:04:29 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 05:08:36 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:08:36 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <libsyn:show-id>65267</libsyn:show-id>
     
@@ -55,6 +55,57 @@
     
     
     
+    
+    <item>
+      <title>Lore Alive 5: In the Next Room</title>
+      <itunes:title>Lore Alive 5: In the Next Room</itunes:title>
+      <pubDate>Fri, 30 Oct 2026 05:01:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[441a244f-b3de-436e-8321-9b5c718c4ddf]]></guid>
+      <link><![CDATA[https://www.lorepodcast.com/episodes/alive5]]></link>
+      <description><![CDATA[———————————————————
+
+Detected ads marked as chapters: 1 ad totaling 0.9 minutes. Each ad plays in full -- skip to the next chapter to pass it.
+
+- Warby Parker: starts 19:07 (0.9 min)
+
+<p>Welcome to <strong>Lore Alive</strong>, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors.<span class= "Apple-converted-space"> </span></p> <p>For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's something much more frightening beneath the surface.</p> <p><em>Lore Alive was created by Aaron Mahnke, with writing and direction by Nicolas Tecosky, audio production and sound design by Brandon Grugle. This week's episode starred Amanda Cucher as Marion Bargrave, and Sarah Palmm as Lavinia Veal and Helen.</em></p> <p>———————————————————————————</p> <p><strong>Series Sponsor:</strong></p> <ul> <li><strong>Warby Parker</strong>: Right now, buy one pair and get additional pairs for 20%. Go to <a href= "https://www.warbyparker.com/lore">WarbyParker.com/LORE</a> to try on any pair virtually!</li> </ul> <p><strong>Lore Resources: </strong></p> <ul> <li>Get Ad-Free Lore: <a href= "https://www.lorepodcast.com/support">lorepodcast.com/support</a></li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">lorepodcast.com/shop</a></li> </ul> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Welcome to Lore Alive, a special Halloween bonus series that brings dark tales from history to life with immersive sound design and voice actors. </p> <p>For today's final Halloween bonus of the year, we have the sort of story that captured my heart as a kid. On the surface, it's the story of a woman grieving the departure of a dear friend. But there's something much more frightening beneath the surface.</p> <p><em>Lore Alive was created by Aaron Mahnke, with writing and direction by Nicolas Tecosky, audio production and sound design by Brandon Grugle. This week's episode starred Amanda Cucher as Marion Bargrave, and Sarah Palmm as Lavinia Veal and Helen.</em></p> <p>———————————————————————————</p> <p>Series Sponsor:</p> <ul> <li>Warby Parker: Right now, buy one pair and get additional pairs for 20%. Go to <a href= "https://www.warbyparker.com/lore">WarbyParker.com/LORE</a> to try on any pair virtually!</li> </ul> <p>Lore Resources: </p> <ul> <li>Get Ad-Free Lore: <a href= "https://www.lorepodcast.com/support">lorepodcast.com/support</a></li> <li>Official Lore Merchandise: <a href= "https://www.lorepodcast.com/shop">lorepodcast.com/shop</a></li> </ul> <p>©2026 Aaron Mahnke. All rights reserved.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://github.com/Perennial-Curiosity/Clean-Podcasts/releases/download/lore-alive-5-in-the-next-room/lore-alive-5-in-the-next-room-marked.mp3" length="30697417" type="audio/mpeg"/>
+      <itunes:duration>21:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:image href="https://static.libsyn.com/p/assets/8/5/9/7/859792efa30c84cca04421dee9605cbd/Alive5.jpg" />
+      
+      
+      <itunes:episodeType>bonus</itunes:episodeType>
+      
+      <itunes:author>Aaron Mahnke</itunes:author>
+      
+      
+      
+
+      <libsyn:item-id>43472809</libsyn:item-id>
+      
+      <libsyn:last-updated>2026-10-30T05:06:55Z</libsyn:last-updated>
+      
+      
+      <libsyn:ad-markers>
+        
+        <libsyn:ad-marker type="pre" count="2" />
+        
+        <libsyn:ad-marker type="post" count="2" timestamp="1264" />
+        
+      </libsyn:ad-markers>
+      
+    </item>
     
     <item>
       <title>Legends 91: Landslide</title>
@@ -23640,55 +23691,6 @@
         <libsyn:ad-marker type="mid" count="3" timestamp="1537" />
         
         <libsyn:ad-marker type="post" count="2" timestamp="1616" />
-        
-      </libsyn:ad-markers>
-      
-    </item>
-    
-    <item>
-      <title>Episode 50: Mary, Mary</title>
-      <itunes:title>Episode 50: Mary, Mary</itunes:title>
-      <pubDate>Fri, 23 Dec 2016 10:52:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[a16ab68110c59aaea0c5aabe0dbcc1aa]]></guid>
-      <link><![CDATA[https://dts.podtrac.com/redirect.mp3/chrt.fm/track/A3B28C/traffic.libsyn.com/secure/lorepodcast/Episode_50_Mary_Mary.mp3]]></link>
-      <description><![CDATA[<p>The Spiritualist movement placed a large focus on reaching beyond the veil, which made us the outsiders pressing into a foreign realm. In the late 1800's, however, that realm pressed back, and what a wonder it turned out to be.</p> <p>* * *</p> <p><strong>Official Lore Merchandise:</strong> <a href= "http://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></p> <p><strong>Member-only Episodes:</strong> <a href= "https://www.patreon.com/lorepodcast">www.patreon.com/lorepodcast</a></p> <p><a href="https://www.lorepodcast.com/support" rel= "payment">Access premium content!: https://www.lorepodcast.com/support</a></p>]]></description>
-      
-      <content:encoded><![CDATA[<p>The Spiritualist movement placed a large focus on reaching beyond the veil, which made us the outsiders pressing into a foreign realm. In the late 1800's, however, that realm pressed back, and what a wonder it turned out to be.</p> <p>* * *</p> <p>Official Lore Merchandise: <a href= "http://www.lorepodcast.com/shop">www.lorepodcast.com/shop</a></p> <p>Member-only Episodes: <a href= "https://www.patreon.com/lorepodcast">www.patreon.com/lorepodcast</a></p> <p><a href="https://www.lorepodcast.com/support" rel= "payment">Access premium content!: https://www.lorepodcast.com/support</a></p>]]></content:encoded>
-      
-      
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/claritaspod.com/measure/traffic.libsyn.com/secure/lorepodcast/Episode_50_Mary_Mary.mp3?dest-id=259905" length="54088853" type="audio/mpeg" />
-      <itunes:duration>28:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-      <itunes:keywords />
-      
-      
-      <itunes:episode>50</itunes:episode>
-      
-      
-      <itunes:image href="https://static.libsyn.com/p/assets/d/4/8/2/d482bcaa17de292f88c4a68c3ddbc4f2/image_t-1643941326_size-Large.jpg" />
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      <itunes:author>Aaron Mahnke and Grim &amp; Mild</itunes:author>
-      
-      
-      
-
-      <libsyn:item-id>4937665</libsyn:item-id>
-      
-      <libsyn:last-updated>2023-05-02T17:06:20Z</libsyn:last-updated>
-      
-      
-      <libsyn:ad-markers>
-        
-        <libsyn:ad-marker type="pre" count="2" />
-        
-        <libsyn:ad-marker type="mid" count="3" timestamp="1612" />
-        
-        <libsyn:ad-marker type="post" count="2" timestamp="1691" />
         
       </libsyn:ad-markers>
       
